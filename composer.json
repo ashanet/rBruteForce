@@ -7,6 +7,7 @@
 	"license": "MIT",
 	"authors": [
 		{
+			"version": "dev-master",
 			"name": "ashanet",
 			"homepage": "http://ashanet.ir",
 			"role": "Author"
