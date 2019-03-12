@@ -39,7 +39,7 @@ The migrations files could be found in `config/Migrations`.
 ### Install via composer. 
 
 ````
-composer require rrd/rbruteforce
+composer require ashanet/rbruteforce
 ````
 
 Add the plugin to your project's `composer.json` - something like this:
@@ -47,7 +47,7 @@ Add the plugin to your project's `composer.json` - something like this:
 ````json
 {
   "require": {
-    "rrd/rbruteforce": "*"
+    "ashanet/rbruteforce": "*"
   }
 }
 ````
@@ -63,7 +63,7 @@ Because this plugin has the type cakephp-plugin set in it's own composer.json, c
 
 ## Reporting Issues
 
-If you have a problem with rBruteForce please report [here](https://github.com/rrd108/rBruteForce/issues)
+If you have a problem with rBruteForce please report [here](https://github.com/ashanet/rBruteForce/issues)
 
 # Documentation
 
